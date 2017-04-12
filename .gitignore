@@ -1,0 +1,4 @@
+.erlang.mk
+ebin
+foreach
+foreach.d

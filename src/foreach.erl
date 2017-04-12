@@ -1,5 +1,6 @@
-#!/usr/bin/env escript
-%%! -smp enable
+-module (foreach).
+
+-export ([main/1]).
 
 main([]) ->
 	usage();
